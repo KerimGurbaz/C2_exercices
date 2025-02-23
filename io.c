@@ -44,18 +44,5 @@ int main() {
 
     printf("%.2f * %d = %.2f vous devrez payer ", price, pieces, res);
 
-
-
-
-
-
-
-
-
-
-
-
-
-
     return 0;
 }
